@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @padmehr
 - 👀 I’m interested in mostly code
-- 🌱 I’m currently learning React/html/css
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me , purpleronin@gmail.com, twitter: padmehrkordlar
 
